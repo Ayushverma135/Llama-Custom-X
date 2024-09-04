@@ -112,3 +112,5 @@ This repository contains a Streamlit-based web application named **Llama-Custom-
 ## Notes:
 - The specific path or way to load the model might vary depending on updates from GPT4All or Hugging Face, so always refer to the latest documentation.
 - Ensure your environment has sufficient resources to handle large models like `llama-2-7b-chat`.
+
+![app_v5](https://github.com/user-attachments/assets/dc552b45-bddc-4cb9-bf24-27a13877eb4d)
