@@ -1,0 +1,41 @@
+Timestamp,Level,Message,Action,Status,Secure,Encryption Details
+"2024-08-30 15:16:48,162",INFO,API call to /api/security/login secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 15:16:48,162",WARNING,Login failed for bhaskarbanerjee1903@gmail.com,login,Failed,No,N/A
+"2024-08-30 15:17:03,200",INFO,API call to /api/security/login secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 15:17:03,200",WARNING,Login failed for bhaskarbanerjee1903@gmail.com,login,Failed,No,N/A
+"2024-08-30 15:22:02,763",INFO,API call to /api/security/login secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 15:22:02,763",WARNING,Login failed for bhaskarbanerjee1903@gmail.com,login,Failed,No,N/A
+"2024-08-30 15:27:22,736",INFO,API call to /api/security/register secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 15:27:22,751",INFO,User bhaskarbanerjee1903@gmail.com registered successfully,register,Successful,Yes,N/A
+"2024-08-30 15:30:08,049",INFO,API call to /api/security/login secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 15:30:08,049",WARNING,Login failed for bhaskarbanerjee1903@gmail.com,login,Failed,No,N/A
+"2024-08-30 15:30:09,814",INFO,API call to /api/security/login secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 15:30:09,814",WARNING,Login failed for bhaskarbanerjee1903@gmail.com,login,Failed,No,N/A
+"2024-08-30 15:33:25,174",INFO,API call to /api/security/login secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 15:33:25,174",INFO,Login successful for email@gmail.com,login,Successful,Yes,N/A
+"2024-08-30 15:33:26,503",INFO,API call to /api/security/login secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 15:33:26,503",INFO,Login successful for email@gmail.com,login,Successful,Yes,N/A
+"2024-08-30 15:40:57,875",INFO,API call to /api/security/login secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 15:40:57,875",INFO,Login successful for email@gmail.com,login,Successful,Yes,N/A
+"2024-08-30 15:40:59,167",INFO,API call to /api/security/login secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 15:40:59,167",INFO,Login successful for email@gmail.com,login,Successful,Yes,N/A
+"2024-08-30 15:44:09,234",INFO,API call to /api/security/login secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 15:44:09,250",INFO,Login successful for email@gmail.com,login,Successful,Yes,N/A
+"2024-08-30 15:52:53,405",INFO,API call to /api/security/register secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 15:52:53,405",INFO,User bhaskarbanerjee1903@gmail.com registered successfully,register,Successful,Yes,N/A
+"2024-08-30 15:52:54,587",INFO,API call to /api/security/register secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 15:52:54,587",WARNING,Registration failed: User bhaskarbanerjee1903@gmail.com already exists,register,Failed,No,N/A
+"2024-08-30 15:54:11,309",INFO,API call to /api/security/register secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 15:54:11,309",INFO,User bhaskarbanerjee1903@gmail.com registered successfully,register,Successful,Yes,N/A
+"2024-08-30 15:56:20,806",INFO,API call to /api/security/register secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 15:56:20,806",INFO,User bhaskarbanerjee1903@gmail.com registered successfully,register,Successful,Yes,N/A
+"2024-08-30 15:58:00,740",INFO,API call to /api/security/register secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 15:58:00,740",INFO,User bhaskarbanerjee1903@gmail.com registered successfully,register,Successful,Yes,N/A
+"2024-08-30 16:00:24,199",INFO,API call to /api/security/register secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 16:00:24,199",INFO,User bhaskarbanerjee1903@gmail.com registered successfully,register,Successful,Yes,N/A
+"2024-08-30 16:02:45,267",INFO,API call to /api/security/register secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 16:02:45,267",INFO,User bhaskarbanerjee1903@gmail.com registered successfully,register,Successful,Yes,N/A
+"2024-08-30 16:04:02,866",INFO,API call to /api/security/register secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 16:04:02,867",INFO,User xyz@gmail.com registered successfully,register,Successful,Yes,N/A
+"2024-08-30 16:05:22,730",INFO,API call to /api/security/register secured,API Call,Successful,Yes,"Keys Match: True, Signature Valid: True"
+"2024-08-30 16:05:22,730",INFO,User bhaskarbanerjee1903@gmail.com registered successfully,register,Successful,Yes,N/A
